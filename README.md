@@ -13,3 +13,12 @@
 شغّل `ADMIN_PEOPLE_CRUD.sql` مرة واحدة في Supabase SQL Editor بعد إنشاء الجداول/الترحيلات الأساسية للمشروع.
 
 لا تضع service_role key أو أي كلمة مرور داخل ملفات الواجهة.
+
+
+## آخر تحديث
+- خط Tajawal عبر Google Fonts في الواجهات الرئيسية.
+- العنوان أصبح مطلوبًا للبائع في التسجيل والإدارة وملف البائع.
+- البريد الإلكتروني للبائع مطلوب في إنشاء الحساب.
+
+- `seller_profiles.address` added and populated from seller signup metadata.
+- Seller email remains required for Auth account creation; password is never stored in Bazaar tables.
