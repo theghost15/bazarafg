@@ -27,6 +27,9 @@ create table if not exists public.seller_profiles (
 alter table public.seller_profiles
   add column if not exists seller_number bigint;
 
+alter table public.seller_profiles
+  add column if not exists address text;
+
 update public.seller_profiles
 set seller_number = nextval('public.seller_number_seq')
 where seller_number is null;
@@ -52,6 +55,7 @@ declare
   v_name text := coalesce(new.raw_user_meta_data->>'full_name','');
   v_store text := coalesce(nullif(new.raw_user_meta_data->>'store_name',''),'متجري');
   v_phone text := coalesce(new.raw_user_meta_data->>'phone','');
+  v_address text := coalesce(new.raw_user_meta_data->>'address','');
 begin
   -- IMPORTANT: a new account is never an admin.
   -- A seller stays 'staff' until the admin approves the seller profile.
@@ -62,7 +66,7 @@ begin
       set full_name = excluded.full_name;
 
     insert into public.seller_profiles(
-      id, seller_number, store_name, full_name, phone, approved, active
+      id, seller_number, store_name, full_name, phone, address, approved, active
     )
     values(
       new.id,
@@ -70,13 +74,15 @@ begin
       v_store,
       v_name,
       v_phone,
+      v_address,
       false,
       true
     )
     on conflict(id) do update
       set store_name = excluded.store_name,
           full_name = excluded.full_name,
-          phone = excluded.phone;
+          phone = excluded.phone,
+          address = excluded.address;
   else
     insert into public.profiles(id, full_name, role)
     values(new.id, v_name, 'customer')
