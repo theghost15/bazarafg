@@ -1,0 +1,4024 @@
+{
+  "store": {
+    "name": "بازار",
+    "tagline": "اختياراتك في مكان واحد",
+    "currency": "ر.س",
+    "whatsapp": "",
+    "announcement": "مرحبًا بك في بازار — تسوقك أسهل وأجمل",
+    "heroTitle": "اختياراتك في مكان واحد",
+    "heroText": "منتجات مختارة بعناية وتجربة تسوق بسيطة وسريعة على الجوال والكمبيوتر."
+  },
+  "categories": [
+    "أطقم ساعات",
+    "أوشحة",
+    "أوشحة رأس",
+    "سجاد",
+    "سجادات",
+    "سجادات مدخل",
+    "سماعات رأس بلوتوث بطوق للرقبة",
+    "شامبو جاف",
+    "عبايات ورداءات",
+    "قبعات",
+    "نظارات شمسية"
+  ],
+  "products": [
+    {
+      "id": "carfet008-1-85478252",
+      "model": "carfet008-1",
+      "title": "سجادة صناعة تركية فاخرة باللون الأحمر القاني - نمط كلاسيكي خالد",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1947/prod/QC_PREP/20260826/17/af18bcb2-141d-354e-90a1-faeebb240a02/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1191774622?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet008-1-170",
+          "size": "",
+          "color": "أحمر",
+          "price": 219,
+          "originalPrice": 320,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet008-1-150",
+          "size": "",
+          "color": "أحمر",
+          "price": 149,
+          "originalPrice": 200,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet008-1-300",
+          "size": "",
+          "color": "أحمر",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet008-1-200",
+          "size": "",
+          "color": "أحمر",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet009-1-59883865",
+      "model": "carfet009-1",
+      "title": "سجادة صناعة تركية فاخرة بنقوش هندسية ملكية باللون الأحمر العنابي",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1947/prod/QC_PREP/20260826/17/0859dc31-ff75-3868-bb84-3d8c0bfdd267/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1191646591?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet009-1-200",
+          "size": "",
+          "color": "أحمر",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet009-1-150",
+          "size": "",
+          "color": "أحمر",
+          "price": 149,
+          "originalPrice": 200,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet009-1-300",
+          "size": "",
+          "color": "أحمر",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet009-1-170",
+          "size": "",
+          "color": "أحمر",
+          "price": 219,
+          "originalPrice": 320,
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet007-1-67612039",
+      "model": "carfet007-1",
+      "title": "سجادة صناعة تركية فاخرة باللون الأحمر القاني - نمط كلاسيكي خالد يضفي لمسة من الفخامة على منزلك.",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1948/prod/QC_PREP/20260826/17/411bfc7d-0de3-359f-928d-c014c36466b9/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1191633963?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet007-1-170",
+          "size": "",
+          "color": "أحمر",
+          "price": 219,
+          "originalPrice": 320,
+          "stock": 1
+        },
+        {
+          "barcode": "carfet007-1-300",
+          "size": "",
+          "color": "أحمر",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet007-1-150",
+          "size": "",
+          "color": "أحمر",
+          "price": 149,
+          "originalPrice": 200,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet007-1-200",
+          "size": "",
+          "color": "أحمر",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "REMA001-76635548",
+      "model": "REMA001",
+      "title": "سماعات REMAPLUS WIRLESS",
+      "description": "",
+      "category": "سماعات رأس بلوتوث بطوق للرقبة",
+      "brand": "Generic",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1946/prod/QC_PREP/20260819/11/ca516cba-cc05-3259-bed5-5b3524cf90fd/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1188689247?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": "",
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "rema001",
+          "size": "",
+          "color": "أسود",
+          "price": 59,
+          "originalPrice": 99,
+          "stock": 3
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet09-74550844",
+      "model": "carfet09",
+      "title": "دعاسة مدخل كلاسيكية بنقوش هندسية - أحمر ملكي - صناعة تركية فاخرة",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1944/prod/QC_PREP/20260817/17/71f0dbda-7bf8-36bd-beb5-4b96f7cf27ec/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1187156828?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": "",
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet09-1",
+          "size": "",
+          "color": "أحمر",
+          "price": 59,
+          "originalPrice": 100,
+          "stock": 5
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet08-72205228",
+      "model": "carfet08",
+      "title": "دعاسة ممر ومدخل كلاسيكية باللون الأحمر القاني - نقشة عثمانية فاخرة - صناعة تركية",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1894/prod/QC_PREP/20260817/17/9aa06bf1-62ae-344a-b744-a04906e370e1/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1187156826?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": "",
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet08-1",
+          "size": "",
+          "color": "أحمر",
+          "price": 59,
+          "originalPrice": 100,
+          "stock": 5
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet07-28937618",
+      "model": "carfet07",
+      "title": "دعاسة مدخل فاخرة باللون الأحمر الملكي - تصميم عثماني كلاسيكي - صناعة تركية",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1898/prod/QC_PREP/20260817/17/788642a7-e75c-3576-80a8-72bcb306b819/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1187156602?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": "",
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet007-1",
+          "size": "",
+          "color": "أحمر",
+          "price": 59,
+          "originalPrice": 100,
+          "stock": 5
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet10-25557208",
+      "model": "carfet10",
+      "title": "سجادة عثمانية كلاسيكية حمراء - نقشة تقليدية معقدة - صناعة تركية فاخرة",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1894/prod/QC_PREP/20260817/17/c5ae9503-c01f-3b5d-b901-cf14ba9b3362/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1187156546?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet10-4",
+          "size": "",
+          "color": "أحمر",
+          "price": 219,
+          "originalPrice": 320,
+          "stock": 3
+        },
+        {
+          "barcode": "carfet10-3",
+          "size": "",
+          "color": "أحمر",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 3
+        },
+        {
+          "barcode": "carfet10-2",
+          "size": "",
+          "color": "أحمر",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 3
+        },
+        {
+          "barcode": "carfet10-1",
+          "size": "",
+          "color": "أحمر",
+          "price": 149,
+          "originalPrice": 200,
+          "stock": 3
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "TYC5153859C7B153CCD2BD400-4827530",
+      "model": "TYC5153859C7B153CCD2BD400",
+      "title": "دعاسة سجادة ممر تركية فاخرة بنقوش هندسية كلاسيكية - أحمر غني وأسود - مقاسات متنوعة",
+      "description": "",
+      "category": "سجادات مدخل",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1929/prod/QC_PREP/20260816/22/1ace750f-ec66-3f83-b627-8dd674d66422/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1186497753?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "carfet10-10",
+          "size": "",
+          "color": "أحمر",
+          "price": 59,
+          "originalPrice": 100,
+          "stock": 5
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet005-54484773",
+      "model": "carfet005",
+      "title": "سجادة \"تايفان\" التركية - أنواط كلاسيكية باللون الأزرق الفيروزي والبيج",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1934/prod/QC_PREP/20260813/23/68e592af-819a-320f-83b4-8758d74692cf/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185945372?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet005-1",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 149,
+          "originalPrice": 200,
+          "stock": 1
+        },
+        {
+          "barcode": "carfet005-6",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 599,
+          "originalPrice": 700,
+          "stock": 1
+        },
+        {
+          "barcode": "carfet005-3",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 1
+        },
+        {
+          "barcode": "carfet005-4",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 219,
+          "originalPrice": 320,
+          "stock": 1
+        },
+        {
+          "barcode": "carfet005-2",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 1
+        },
+        {
+          "barcode": "carfet005-5",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 349,
+          "originalPrice": 500,
+          "stock": 1
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet032-77673812",
+      "model": "carfet032",
+      "title": "سجادة \"ميراج\" التركية - مودرن تجريدي باللون الرمادي الفحمي والخطوط الذهبية المتموجة",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1910/prod/QC_PREP/20260814/18/4022ee42-6452-343f-8fa2-6ff4dc071f6e/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185902975?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet032-6",
+          "size": "",
+          "color": "رمادي",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet032-2",
+          "size": "",
+          "color": "رمادي",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet032-1",
+          "size": "",
+          "color": "رمادي",
+          "price": 399,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet032-3",
+          "size": "",
+          "color": "رمادي",
+          "price": 219,
+          "originalPrice": 320,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet032-5",
+          "size": "",
+          "color": "رمادي",
+          "price": 599,
+          "originalPrice": 700,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet032-4",
+          "size": "",
+          "color": "رمادي",
+          "price": 349,
+          "originalPrice": 500,
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet023-90155130",
+      "model": "carfet023",
+      "title": "سجادة \"سيرين\" التركية - مودرن تجريدي باللون الرمادي الترابي ولمسات السماوي",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1900/prod/QC_PREP/20260814/17/cdc37304-4bd6-3827-96b7-ea9beab25157/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185902942?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet023-2",
+          "size": "",
+          "color": "رمادي",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet023-6",
+          "size": "",
+          "color": "رمادي",
+          "price": 599,
+          "originalPrice": 700,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet023-4",
+          "size": "",
+          "color": "رمادي",
+          "price": 219,
+          "originalPrice": 320,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet023-3",
+          "size": "",
+          "color": "رمادي",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet023-5",
+          "size": "",
+          "color": "رمادي",
+          "price": 349,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet023-1",
+          "size": "",
+          "color": "رمادي",
+          "price": 399,
+          "originalPrice": 500,
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet026-56960587",
+      "model": "carfet026",
+      "title": "سجادة \"روستيك\" التركية - مودرن هندسي باللون البني الدافئ والخطوط الذهبية",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1918/prod/QC_PREP/20260814/17/9fff20fe-b75e-3494-af16-d3d5fa72a986/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185902941?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet026-5",
+          "size": "",
+          "color": "بني",
+          "price": 349,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet026-3",
+          "size": "",
+          "color": "بني",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet026-2",
+          "size": "",
+          "color": "بني",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet026-6",
+          "size": "",
+          "color": "بني",
+          "price": 599,
+          "originalPrice": 700,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet026-4",
+          "size": "",
+          "color": "بني",
+          "price": 219,
+          "originalPrice": 320,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet026-1",
+          "size": "",
+          "color": "بني",
+          "price": 399,
+          "originalPrice": 500,
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet024-84606678",
+      "model": "carfet024",
+      "title": "سجادة \"لارين\" التركية - مودرن فاخر باللون البيج والكريمي ونقش الريش الذهبي",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1932/prod/QC_PREP/20260814/17/bdb6b114-899a-3e73-bc30-bd5927da0af7/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185902940?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet024-3",
+          "size": "",
+          "color": "بيج",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet024-2",
+          "size": "",
+          "color": "بيج",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet024-6",
+          "size": "",
+          "color": "بيج",
+          "price": 599,
+          "originalPrice": 700,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet024-4",
+          "size": "",
+          "color": "بيج",
+          "price": 219,
+          "originalPrice": 320,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet024-5",
+          "size": "",
+          "color": "بيج",
+          "price": 349,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet024-1",
+          "size": "",
+          "color": "بيج",
+          "price": 399,
+          "originalPrice": 500,
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet025-23771483",
+      "model": "carfet025",
+      "title": "سجادة \"سيلين\" التركية - مودرن فاخر باللون البيج والكريمي مع نقش الريش الذهبي والفضي",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1901/prod/QC_PREP/20260814/17/073c47cc-26f6-3d4e-944d-e2244719b0e7/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185902939?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet025-3",
+          "size": "",
+          "color": "رمادي",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet025-4",
+          "size": "",
+          "color": "رمادي",
+          "price": 219,
+          "originalPrice": 320,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet025-2",
+          "size": "",
+          "color": "رمادي",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet025-5",
+          "size": "",
+          "color": "رمادي",
+          "price": 349,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet025-1",
+          "size": "",
+          "color": "رمادي",
+          "price": 399,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet025-6",
+          "size": "",
+          "color": "رمادي",
+          "price": 599,
+          "originalPrice": 700,
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet014-22551636",
+      "model": "carfet014",
+      "title": "سجادة \"لورا\" التركية - مودرن بوهيمي باللون الرمادي والنقوش المنسوجة",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1900/prod/QC_PREP/20260814/17/2fc5c337-4247-3889-a329-0f7262defb1a/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185902938?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet014-6",
+          "size": "",
+          "color": "رمادي",
+          "price": 599,
+          "originalPrice": 700,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet014-3",
+          "size": "",
+          "color": "رمادي",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet014-5",
+          "size": "",
+          "color": "رمادي",
+          "price": 349,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet014-2",
+          "size": "",
+          "color": "رمادي",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet027-52669244",
+      "model": "carfet027",
+      "title": "سجادة \"فلورنسا\" التركية - نيوكلاسيك فاخر باللون الرمادي الفضي والزخارف الذهبية البرونزية",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1922/prod/QC_PREP/20260814/17/6d7d529a-90bd-3234-bad0-b1df48030fc4/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1953/prod/QC_ENRICHMENT/20260907/16/f3c0efbd-c753-3c62-819d-d267f73a1f57/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1954/prod/QC_ENRICHMENT/20260907/16/761b4539-5a79-3df7-854f-fee5878710e5/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1955/prod/QC_ENRICHMENT/20260907/16/6186239f-db66-3122-8b76-90e7aa6dfe1c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1953/prod/QC_ENRICHMENT/20260907/16/3a1ec5bf-539a-310f-9840-f0dc8794688d/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1953/prod/QC_ENRICHMENT/20260907/16/e9df4c76-e154-3e05-864c-fc0a734ef660/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185902928?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet027-6",
+          "size": "",
+          "color": "رمادي",
+          "price": 399,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet027-4",
+          "size": "",
+          "color": "رمادي",
+          "price": 599,
+          "originalPrice": 700,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet027-5",
+          "size": "",
+          "color": "رمادي",
+          "price": 349,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet027-3",
+          "size": "",
+          "color": "رمادي",
+          "price": 219,
+          "originalPrice": 320,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet027-2",
+          "size": "",
+          "color": "رمادي",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet027-1",
+          "size": "",
+          "color": "رمادي",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet028-55286966",
+      "model": "carfet028",
+      "title": "سجادة \"أستريا\" التركية - مودرن معتق باللون الرمادي الفحمي ولمسات الأزرق السماوي",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1932/prod/QC_PREP/20260814/18/68c9ee21-10ff-32ed-8d13-e9821213d889/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185902925?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet028-1",
+          "size": "",
+          "color": "رمادي",
+          "price": 399,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet028-2",
+          "size": "",
+          "color": "رمادي",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet028-3",
+          "size": "",
+          "color": "رمادي",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet028-6",
+          "size": "",
+          "color": "رمادي",
+          "price": 599,
+          "originalPrice": 700,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet028-4",
+          "size": "",
+          "color": "رمادي",
+          "price": 219,
+          "originalPrice": 320,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet028-5",
+          "size": "",
+          "color": "رمادي",
+          "price": 349,
+          "originalPrice": 500,
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet031-7918124",
+      "model": "carfet031",
+      "title": "سجادة \"أمبير\" التركية - مودرن هندسي باللون الذهبي الزيتوني والخطوط الفضية",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1926/prod/QC_PREP/20260814/18/d36c6fb6-fb5f-3325-a2c2-c971efbd2ae7/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185902924?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet031-1",
+          "size": "",
+          "color": "ذهبي",
+          "price": 399,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet031-4",
+          "size": "",
+          "color": "ذهبي",
+          "price": 219,
+          "originalPrice": 320,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet031-3",
+          "size": "",
+          "color": "ذهبي",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet031-6",
+          "size": "",
+          "color": "ذهبي",
+          "price": 599,
+          "originalPrice": 700,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet031-5",
+          "size": "",
+          "color": "ذهبي",
+          "price": 349,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet031-2",
+          "size": "",
+          "color": "ذهبي",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet030-60725354",
+      "model": "carfet030",
+      "title": "سجادة \"تيتان\" التركية - مودرن معتق باللون الرمادي الفضي والنقوش البرونزية",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1924/prod/QC_PREP/20260814/18/f9a42eb1-7a43-37e7-84b0-4ef381c3201b/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185902923?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet030-4",
+          "size": "",
+          "color": "رمادي",
+          "price": 219,
+          "originalPrice": 320,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet030-5",
+          "size": "",
+          "color": "رمادي",
+          "price": 599,
+          "originalPrice": 700,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet030-1",
+          "size": "",
+          "color": "رمادي",
+          "price": 399,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet030-2",
+          "size": "",
+          "color": "رمادي",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet030-3",
+          "size": "",
+          "color": "رمادي",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet030-6",
+          "size": "",
+          "color": "رمادي",
+          "price": 349,
+          "originalPrice": 500,
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet029-91585447",
+      "model": "carfet029",
+      "title": "سجادة \"سيليست\" التركية - مودرن فاخر باللون الرمادي الفحمي ونقش الريش الذهبي والفضي",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1913/prod/QC_PREP/20260814/18/8a1f06ae-b3e7-391b-bffc-779963b55348/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185902922?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet029-5",
+          "size": "",
+          "color": "رمادي",
+          "price": 349,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet029-2",
+          "size": "",
+          "color": "رمادي",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet029-6",
+          "size": "",
+          "color": "رمادي",
+          "price": 599,
+          "originalPrice": 700,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet029-3",
+          "size": "",
+          "color": "رمادي",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet029-4",
+          "size": "",
+          "color": "رمادي",
+          "price": 219,
+          "originalPrice": 320,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet029-1",
+          "size": "",
+          "color": "رمادي",
+          "price": 399,
+          "originalPrice": 500,
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet022-50983193",
+      "model": "carfet022",
+      "title": "سجادة \"أورورا\" التركية - مودرن فاخر باللون الرمادي الفحمي والنقوش الهندسية الذهبية",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1919/prod/QC_PREP/20260814/17/78df3c8a-338a-3dd8-990d-45a09b1e4dc9/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185902899?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet022-3",
+          "size": "",
+          "color": "رمادي",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet022-6",
+          "size": "",
+          "color": "رمادي",
+          "price": 599,
+          "originalPrice": 700,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet022-4",
+          "size": "",
+          "color": "رمادي",
+          "price": 219,
+          "originalPrice": 320,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet022-2",
+          "size": "",
+          "color": "رمادي",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet022-1",
+          "size": "",
+          "color": "رمادي",
+          "price": 399,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet022-5",
+          "size": "",
+          "color": "رمادي",
+          "price": 349,
+          "originalPrice": 500,
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet033-21812217",
+      "model": "carfet033",
+      "title": "سجادة \"سولار\" التركية - مودرن هندسي باللون الذهبي البراق والخطوط الفضية",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1913/prod/QC_PREP/20260814/18/2ead6410-1980-3f6d-bec4-9b8e1b5e5029/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185902897?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet033-3",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet033-4",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 219,
+          "originalPrice": 320,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet033-2",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet033-6",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 599,
+          "originalPrice": 700,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet033-1",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 399,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet033-5",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 349,
+          "originalPrice": 500,
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet034-12960603",
+      "model": "carfet034",
+      "title": "سجادة \"لوكسور\" التركية - مودرن تجريدي باللون الرمادي الداكن والخطوط الذهبية المتموجة",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1928/prod/QC_PREP/20260814/18/53a2bc6f-103a-3530-8e4d-d241ca34b332/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185902896?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet034-4",
+          "size": "",
+          "color": "رمادي",
+          "price": 219,
+          "originalPrice": 320,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet034-6",
+          "size": "",
+          "color": "رمادي",
+          "price": 599,
+          "originalPrice": 700,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet034-3",
+          "size": "",
+          "color": "رمادي",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet034-5",
+          "size": "",
+          "color": "رمادي",
+          "price": 349,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet034-1",
+          "size": "",
+          "color": "رمادي",
+          "price": 399,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet034-2",
+          "size": "",
+          "color": "رمادي",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet035-97346389",
+      "model": "carfet035",
+      "title": "سجادة \"أوركيد\" التركية - نيوكلاسيك فاخر باللون الرمادي الترابي والزخارف الفضية والتركوازية",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1900/prod/QC_PREP/20260814/18/1f85a75d-9f30-3f2d-b94a-48efa3652e6d/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185902895?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet035-2",
+          "size": "",
+          "color": "رمادي",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet035-4",
+          "size": "",
+          "color": "رمادي",
+          "price": 219,
+          "originalPrice": 320,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet035-1",
+          "size": "",
+          "color": "رمادي",
+          "price": 399,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet035-6",
+          "size": "",
+          "color": "رمادي",
+          "price": 599,
+          "originalPrice": 700,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet035-3",
+          "size": "",
+          "color": "رمادي",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet035-5",
+          "size": "",
+          "color": "رمادي",
+          "price": 349,
+          "originalPrice": 500,
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet036-4703184",
+      "model": "carfet036",
+      "title": "سجادة \"فالنسيا\" التركية - نيوكلاسيك فاخر باللون الرمادي الفحمي والزخارف الذهبية والفضية",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1902/prod/QC_PREP/20260814/18/e4797de0-5411-397d-b771-ff8fead5e063/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185902894?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet036-6",
+          "size": "",
+          "color": "رمادي",
+          "price": 599,
+          "originalPrice": 700,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet036-5",
+          "size": "",
+          "color": "رمادي",
+          "price": 349,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet036-4",
+          "size": "",
+          "color": "رمادي",
+          "price": 219,
+          "originalPrice": 320,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet036-3",
+          "size": "",
+          "color": "رمادي",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet036-2",
+          "size": "",
+          "color": "رمادي",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet036-1",
+          "size": "",
+          "color": "رمادي",
+          "price": 399,
+          "originalPrice": 500,
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet037-47062028",
+      "model": "carfet037",
+      "title": "سجادة \"أثينا\" التركية - مودرن تجريدي باللون الرمادي الترابي والخطوط الذهبية والفضية",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1929/prod/QC_PREP/20260814/18/7f9a8df4-b2b7-377a-9d76-aff66547f022/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185902893?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet037-1",
+          "size": "",
+          "color": "رمادي",
+          "price": 399,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet037-6",
+          "size": "",
+          "color": "رمادي",
+          "price": 599,
+          "originalPrice": 700,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet037-5",
+          "size": "",
+          "color": "رمادي",
+          "price": 349,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet037-2",
+          "size": "",
+          "color": "رمادي",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet037-4",
+          "size": "",
+          "color": "رمادي",
+          "price": 219,
+          "originalPrice": 320,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet037-3",
+          "size": "",
+          "color": "رمادي",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet021-12145894",
+      "model": "carfet021",
+      "title": "سجادة \"رويال\" التركية - نيوكلاسيك راقٍ باللون البيج الكريمي والزخارف الفضية",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1914/prod/QC_PREP/20260814/17/c1d4cf6a-5dec-3d3e-927f-793a78b1e518/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185902885?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet021-5",
+          "size": "",
+          "color": "رمادي",
+          "price": 349,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet021-6",
+          "size": "",
+          "color": "رمادي",
+          "price": 599,
+          "originalPrice": 700,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet021-4",
+          "size": "",
+          "color": "رمادي",
+          "price": 219,
+          "originalPrice": 320,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet021-1",
+          "size": "",
+          "color": "رمادي",
+          "price": 399,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet021-2",
+          "size": "",
+          "color": "رمادي",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet021-3",
+          "size": "",
+          "color": "رمادي",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet020-12145894",
+      "model": "carfet020",
+      "title": "سجادة \"رويال\" التركية - نيوكلاسيك راقٍ باللون البيج الكريمي والزخارف الفضية",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1918/prod/QC_PREP/20260814/17/c0f9df71-aa93-389d-81dd-0a6b460f2d27/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185902884?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet020-2",
+          "size": "",
+          "color": "رمادي",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet020-6",
+          "size": "",
+          "color": "رمادي",
+          "price": 599,
+          "originalPrice": 700,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet020-5",
+          "size": "",
+          "color": "رمادي",
+          "price": 349,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet020-4",
+          "size": "",
+          "color": "رمادي",
+          "price": 219,
+          "originalPrice": 320,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet020-3",
+          "size": "",
+          "color": "رمادي",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet020-1",
+          "size": "",
+          "color": "رمادي",
+          "price": 399,
+          "originalPrice": 500,
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet017-23697130",
+      "model": "carfet017",
+      "title": "سجادة \"سيينا\" التركية - مودرن فاخر باللون البني الترابي والنقوش الهندسية الذهبية",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1937/prod/QC_PREP/20260814/17/4734372d-8222-3bf1-a8ac-e8c9a9f427a4/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185902883?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet017-1",
+          "size": "",
+          "color": "رمادي",
+          "price": 399,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet017-3",
+          "size": "",
+          "color": "رمادي",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet017-6",
+          "size": "",
+          "color": "رمادي",
+          "price": 599,
+          "originalPrice": 700,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet017-2",
+          "size": "",
+          "color": "رمادي",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet017-4",
+          "size": "",
+          "color": "رمادي",
+          "price": 219,
+          "originalPrice": 320,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet017-5",
+          "size": "",
+          "color": "رمادي",
+          "price": 349,
+          "originalPrice": 500,
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet018-25988802",
+      "model": "carfet018",
+      "title": "سجادة \"بريزما\" التركية - مودرن فاخر باللون الرمادي الفحمي ولمسات الذهبي المعتق",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1924/prod/QC_PREP/20260814/17/0a6f75e6-df3a-3871-8446-7992714f95cc/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185902882?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet018-6",
+          "size": "",
+          "color": "رمادي",
+          "price": 599,
+          "originalPrice": 700,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet018-2",
+          "size": "",
+          "color": "رمادي",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet018-5",
+          "size": "",
+          "color": "رمادي",
+          "price": 349,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet018-3",
+          "size": "",
+          "color": "رمادي",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet018-4",
+          "size": "",
+          "color": "رمادي",
+          "price": 219,
+          "originalPrice": 320,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet018-1",
+          "size": "",
+          "color": "رمادي",
+          "price": 399,
+          "originalPrice": 500,
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet019-75914644",
+      "model": "carfet019",
+      "title": "سجادة \"سيلينا\" التركية - نيوكلاسيك فاخر باللون الرمادي الفضي والزخارف الذهبية",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1932/prod/QC_PREP/20260814/17/2ff580a9-9c55-3d1e-83b2-f521f21619dd/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185902881?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet019-6",
+          "size": "",
+          "color": "رمادي",
+          "price": 599,
+          "originalPrice": 700,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet019-1",
+          "size": "",
+          "color": "رمادي",
+          "price": 399,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet019-2",
+          "size": "",
+          "color": "رمادي",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet019-4",
+          "size": "",
+          "color": "رمادي",
+          "price": 219,
+          "originalPrice": 320,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet019-5",
+          "size": "",
+          "color": "رمادي",
+          "price": 349,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet019-3",
+          "size": "",
+          "color": "رمادي",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet015-82853827",
+      "model": "carfet015",
+      "title": "سجادة \"فلورا\" التركية - مودرن فاخر بتصميم الريش الذهبي والخلفية الرخامية",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1905/prod/QC_PREP/20260814/17/2b1969ce-ae4b-32b7-8b63-3f254a40a85d/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185902870?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet015-6",
+          "size": "",
+          "color": "رمادي",
+          "price": 599,
+          "originalPrice": 700,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet015-4",
+          "size": "",
+          "color": "رمادي",
+          "price": 219,
+          "originalPrice": 320,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet015-1",
+          "size": "",
+          "color": "رمادي",
+          "price": 399,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet015-2",
+          "size": "",
+          "color": "رمادي",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet015-5",
+          "size": "",
+          "color": "رمادي",
+          "price": 349,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet015-3",
+          "size": "",
+          "color": "رمادي",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet016-75685951",
+      "model": "carfet016",
+      "title": "سجادة \"أورا\" التركية - مودرن فاخر بدرجات البيج والكريمي ونقش الريش الذهبي",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1920/prod/QC_PREP/20260814/17/e92e7ac7-8dc8-324d-bfd2-afa2beaf00f0/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185902869?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet016-2",
+          "size": "",
+          "color": "رمادي",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet016-4",
+          "size": "",
+          "color": "رمادي",
+          "price": 219,
+          "originalPrice": 320,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet016-1",
+          "size": "",
+          "color": "رمادي",
+          "price": 399,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet016-5",
+          "size": "",
+          "color": "رمادي",
+          "price": 349,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet016-6",
+          "size": "",
+          "color": "رمادي",
+          "price": 599,
+          "originalPrice": 700,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet016-3",
+          "size": "",
+          "color": "رمادي",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet010-20585556",
+      "model": "carfet010",
+      "title": "سجاد \"شيراز\" التركية - أصالة كلاسيكية باللون الأحمر القرمزي والأسود",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1928/prod/QC_PREP/20260814/16/a82ab61e-4da6-312e-8f45-47000f515bd0/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185902840?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet010-4",
+          "size": "",
+          "color": "أحمر",
+          "price": 219,
+          "originalPrice": 320,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet010-1",
+          "size": "",
+          "color": "أحمر",
+          "price": 149,
+          "originalPrice": 200,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet010-2",
+          "size": "",
+          "color": "أحمر",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 1
+        },
+        {
+          "barcode": "carfet010-3",
+          "size": "",
+          "color": "أحمر",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet013-30814724",
+      "model": "carfet013",
+      "title": "سجادة \"ميرال\" التركية - مودرن هادئ باللون الرمادي وإطار إغريقي راقٍ",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1924/prod/QC_PREP/20260814/17/f01e01cd-4636-355c-89eb-ff4cccfc860b/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185901831?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet013-3",
+          "size": "",
+          "color": "رمادي",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet013-4",
+          "size": "",
+          "color": "رمادي",
+          "price": 599,
+          "originalPrice": 700,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet013-2",
+          "size": "",
+          "color": "رمادي",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet013-5",
+          "size": "",
+          "color": "رمادي",
+          "price": 349,
+          "originalPrice": 500,
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet012-51115639",
+      "model": "carfet012",
+      "title": "سجادة \"سيلفا\" التركية - مودرن بوهيمي باللون الرمادي الفحمي والنقوش المنسوجة",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1906/prod/QC_PREP/20260814/16/9da54fe7-1deb-3821-ab03-92a2b070ecdc/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185901440?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet012-2",
+          "size": "",
+          "color": "رمادي",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet012-6",
+          "size": "",
+          "color": "رمادي",
+          "price": 599,
+          "originalPrice": 700,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet012-5",
+          "size": "",
+          "color": "رمادي",
+          "price": 349,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet012-3",
+          "size": "",
+          "color": "رمادي",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet011-62164339",
+      "model": "carfet011",
+      "title": "سجادة \"أسترا\" التركية - مودرن بوهيمي باللون الرمادي الفاخر والنقوش الهندسية",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1903/prod/QC_PREP/20260814/16/928c84ba-3006-3faf-beae-511307cf0bb3/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185900960?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet011-2",
+          "size": "",
+          "color": "رمادي",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet011-3",
+          "size": "",
+          "color": "رمادي",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet011-5",
+          "size": "",
+          "color": "رمادي",
+          "price": 349,
+          "originalPrice": 500,
+          "stock": 2
+        },
+        {
+          "barcode": "carfet011-6",
+          "size": "",
+          "color": "رمادي",
+          "price": 599,
+          "originalPrice": 700,
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet006-62551427",
+      "model": "carfet006",
+      "title": "سجادة \"كارمن\" التركية - فخامة كلاسيكية باللون العنابي الملكي والبيج",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1937/prod/QC_PREP/20260813/23/09847afb-cfbe-32f7-a539-d7e38897f0de/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185870814?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet006-5",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 349,
+          "originalPrice": 500,
+          "stock": 1
+        },
+        {
+          "barcode": "carfet006-3",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 1
+        },
+        {
+          "barcode": "carfet006-1",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 149,
+          "originalPrice": 200,
+          "stock": 1
+        },
+        {
+          "barcode": "carfet006-4",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 219,
+          "originalPrice": 320,
+          "stock": 1
+        },
+        {
+          "barcode": "carfet006-2",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 1
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet004-12928893",
+      "model": "carfet004",
+      "title": "سجادة \"بلاكبيري\" التركية - فخامة كلاسيكية باللون الأسود الملكي والبيج",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1918/prod/QC_PREP/20260813/22/bac008bc-a4bd-3a78-9732-b27ea3e983db/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185870756?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet004-3",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 1
+        },
+        {
+          "barcode": "carfet004-5",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 349,
+          "originalPrice": 500,
+          "stock": 1
+        },
+        {
+          "barcode": "carfet004-4",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 219,
+          "originalPrice": 320,
+          "stock": 1
+        },
+        {
+          "barcode": "carfet004-1",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 149,
+          "originalPrice": 200,
+          "stock": 1
+        },
+        {
+          "barcode": "carfet004-2",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 1
+        },
+        {
+          "barcode": "carfet004-6",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 599,
+          "originalPrice": 700,
+          "stock": 1
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet003-47521942",
+      "model": "carfet003",
+      "title": "سجادة \"أوركيد\" التركية - أنواط كلاسيكية باللون البني والكاكاو",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1919/prod/QC_PREP/20260813/22/5ecb8682-6f19-3ca1-be1f-937dfbffa567/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185870518?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet003-4",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 219,
+          "originalPrice": 320,
+          "stock": 1
+        },
+        {
+          "barcode": "carfet003-6",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 599,
+          "originalPrice": 700,
+          "stock": 1
+        },
+        {
+          "barcode": "carfet003-5",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 349,
+          "originalPrice": 500,
+          "stock": 1
+        },
+        {
+          "barcode": "carfet003-2",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 1
+        },
+        {
+          "barcode": "carfet003-1",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 149,
+          "originalPrice": 200,
+          "stock": 1
+        },
+        {
+          "barcode": "carfet003-3",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 1
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet002-18259480",
+      "model": "carfet002",
+      "title": "سجادة \"رويال\" التركية - فخامة كلاسيكية باللون الرمادي والبيج",
+      "description": "",
+      "category": "سجادات",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1919/prod/QC_PREP/20260813/22/d5e2f844-c3b2-331e-9e7f-4607ec2868bc/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185870477?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مفتوح",
+      "variants": [
+        {
+          "barcode": "carfet002-6",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 599,
+          "originalPrice": 700,
+          "stock": 1
+        },
+        {
+          "barcode": "carfet002-5",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 219,
+          "originalPrice": 310,
+          "stock": 1
+        },
+        {
+          "barcode": "carfet002-1",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 149,
+          "originalPrice": 250,
+          "stock": 1
+        },
+        {
+          "barcode": "carfet002-2",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 349,
+          "originalPrice": 450,
+          "stock": 1
+        },
+        {
+          "barcode": "carfet002-4",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 1
+        },
+        {
+          "barcode": "carfet002-3",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 1
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "carfet001-34616002",
+      "model": "carfet001",
+      "title": "سجادة \"سلطانة\" التركية - فخامة كلاسيكية بألوان البيج والموكا",
+      "description": "",
+      "category": "سجاد",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1935/prod/QC_PREP/20260813/21/f8b2e5d9-10e5-3fa3-9929-5ea84b14aa16/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1185870476?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "carfet001-6",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 599,
+          "originalPrice": 700,
+          "stock": 1
+        },
+        {
+          "barcode": "carfet001-5",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 349,
+          "originalPrice": 500,
+          "stock": 1
+        },
+        {
+          "barcode": "carfet001-2",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 199,
+          "originalPrice": 300,
+          "stock": 1
+        },
+        {
+          "barcode": "carfet001-3",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 299,
+          "originalPrice": 400,
+          "stock": 1
+        },
+        {
+          "barcode": "carfet001-1",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 149,
+          "originalPrice": 200,
+          "stock": 1
+        },
+        {
+          "barcode": "carfet001-4",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 219,
+          "originalPrice": 320,
+          "stock": 1
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "genevaLionsJeelAlshabab-2868813",
+      "model": "genevaLionsJeelAlshabab",
+      "title": "شماغ جنيفا لايونز أحمر – إصدار محدود",
+      "description": "",
+      "category": "أوشحة",
+      "brand": "Geneva",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1921/prod/QC_PREP/20260809/12/64660975-76bc-3a26-a4aa-86a95c1aa799/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1184774249?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": "",
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "gl00158",
+          "size": "58",
+          "color": "أحمر",
+          "price": 189,
+          "originalPrice": 399,
+          "stock": 5
+        },
+        {
+          "barcode": "gl00155",
+          "size": "55",
+          "color": "أحمر",
+          "price": 189,
+          "originalPrice": 399,
+          "stock": 5
+        },
+        {
+          "barcode": "gl00160",
+          "size": "-60",
+          "color": "أحمر",
+          "price": 189,
+          "originalPrice": 399,
+          "stock": 5
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "massaro007-203250",
+      "model": "massaro007",
+      "title": "شماغ مسارو أحمر بصمة بريميوم الفاخر",
+      "description": "اصدار جديد من شماغ مسارو 2027 بتصميم بصمة البريميوم أنيق باللونين الأحمر والأبيض، يتميز بنقوشه المتناسقة وتفاصيله الواضحة التي تمنح الإطلالة لمسة من الفخامة والأناقة.; مناسب للمناسبات الرسمية والاستخدام اليومي، ويستخدم في صناعته القطن ذات جودة عالية ، ويأتي بتصميم عملي ينسجم مع مختلف الإطلالات الرجالية.;",
+      "category": "أوشحة",
+      "brand": "MASSARO",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1910/prod/QC_PREP/20260813/12/73eb17fe-c7ea-3dad-a96e-f37df78b671c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1940/prod/QC_PREP/20260813/12/34a51cf5-db9b-34d8-94ee-2fffac8faaaa/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1184773958?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": "",
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "massaro00755",
+          "size": "55",
+          "color": "أحمر",
+          "price": 149,
+          "originalPrice": 179,
+          "stock": 10
+        },
+        {
+          "barcode": "massaro00758",
+          "size": "58",
+          "color": "أحمر",
+          "price": 149,
+          "originalPrice": 179,
+          "stock": 10
+        },
+        {
+          "barcode": "massaro00760",
+          "size": "-60",
+          "color": "أحمر",
+          "price": 149,
+          "originalPrice": 179,
+          "stock": 9
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "genvLio004-11258588",
+      "model": "genvLio004",
+      "title": "شماغ جنيفا لايونز أحمر كلاسيك – تغليف فاخر",
+      "description": "",
+      "category": "أوشحة",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1915/prod/QC_PREP/20260809/12/448f5fe2-1cea-3c39-8ec8-1193d3bb6d27/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1183756877?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": "",
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "genvLio00458",
+          "size": "58",
+          "color": "أحمر",
+          "price": 189,
+          "originalPrice": 399,
+          "stock": 5
+        },
+        {
+          "barcode": "genvLio00460",
+          "size": "-60",
+          "color": "أحمر",
+          "price": 189,
+          "originalPrice": 399,
+          "stock": 5
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "gl004-47182423",
+      "model": "gl004",
+      "title": "شماغ جنيفا لايونز أحمر – إصدار محدود بتغليف أخضر",
+      "description": "",
+      "category": "أوشحة",
+      "brand": "jeel alshabab",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1931/prod/QC_PREP/20260809/12/9df20034-c848-3bae-8046-9c947f614677/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1183756857?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": "",
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "gl00258",
+          "size": "58",
+          "color": "أحمر",
+          "price": 189,
+          "originalPrice": 399,
+          "stock": 5
+        },
+        {
+          "barcode": "gl00255",
+          "size": "55",
+          "color": "أحمر",
+          "price": 189,
+          "originalPrice": 399,
+          "stock": 5
+        },
+        {
+          "barcode": "gl00260",
+          "size": "-60",
+          "color": "أحمر",
+          "price": 189,
+          "originalPrice": 399,
+          "stock": 5
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "ghaym001-33854213",
+      "model": "ghaym001",
+      "title": "عباية غيم",
+      "description": "",
+      "category": "عبايات ورداءات",
+      "brand": "Generic Brands",
+      "gender": "النساء",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1918/prod/QC_PREP/20260801/16/b5659e9c-a4aa-3877-badc-792c27b3b368/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1927/prod/QC_ENRICHMENT/20260810/20/53cd0d60-3535-30e3-a197-fb42f2c4eeaa/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1178690727?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 1,
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "ghaym050",
+          "size": "50",
+          "color": "أسود",
+          "price": 89,
+          "originalPrice": 149,
+          "stock": 1
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "ge1-4832589",
+      "model": "ge1",
+      "title": "شماغ جينيفا ليونز سيجنتشر احمر غامق",
+      "description": "شماغ جنيف لايونز (Geneva Lions Signature) – صناعة إنجليزية فاخرة تألّق بمظهر يخطف الأنظار مع شماغ جنيف لايونز Signature الإنجليزي، المصمم بعناية فائقة ليعكس الأصالة والأناقة الكلاسيكية.; مزيج ساحر بين جودة الخيوط الإنجليزية ودقة النقشة ليمنحك إطلالة متكاملة تليق بجميع مناسباتك.; مميزات المنتج: صناعة إنجليزية فاخرة: صُنع بالكامل في إنجلترا (UK) وفق أعلى معايير الجودة والحرفية البريطانية.; قطن 100%: مصنوع من أجود ألياف القطن الناعم ليمنحك الراحة الفائقة والتهوية طوال اليوم.; تصميم ونقشة متقنة: يتميز بنقوش كلاسيكية حمراء زاهية مع تطابق تام للأطراف وثبات مميز عند الارتداء.; هوية العلامة: يزين الشماغ شعار GENEVA LIONS المطبوع بدقة على الحافة ليعزز فخامة وتفرّد القطعة.; تغليف راقي: يأتي داخل علبة هدايا فاخرة باللون الأبيض ومزينة بشعار ذهبي، مما يجعله خياراً ممتازاً للإهداء.",
+      "category": "قبعات",
+      "brand": "Geneva",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1940/prod/QC_PREP/20260722/15/2f04eb97-be90-3b26-a579-be13f7f9fcc6/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1174452735?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": "",
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "TYBLVS4HP89FLOZP71",
+          "size": "55",
+          "color": "أحمر",
+          "price": 199,
+          "originalPrice": 399,
+          "stock": 5
+        },
+        {
+          "barcode": "TYB2VH8KJ7F73QLB70",
+          "size": "60",
+          "color": "أحمر",
+          "price": 199,
+          "originalPrice": 399,
+          "stock": 5
+        },
+        {
+          "barcode": "TYBQ6JRD3GALDIY256",
+          "size": "58",
+          "color": "أحمر",
+          "price": 199,
+          "originalPrice": 399,
+          "stock": 5
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "tq0008-49329669",
+      "model": "tq0008",
+      "title": "طقم هدايا رجالي فخم – ساعة يد، قلم، أزرار أكمام، ومسبحة | أناقة وفخامة لا مثيل لها",
+      "description": "",
+      "category": "أطقم ساعات",
+      "brand": "Retro",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1941/prod/QC_PREP/20260703/17/37d61e1c-7306-3c7c-b31e-d78ad4428fa6/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1164687756?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 1,
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "tq0008",
+          "size": "",
+          "color": "ذهبي اللون",
+          "price": 99,
+          "originalPrice": 120,
+          "stock": 1
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "m2-57324078",
+      "model": "m2",
+      "title": "نظارة Sunglasses شمسية ماستر مع ملحقاتها",
+      "description": "",
+      "category": "نظارات شمسية",
+      "brand": "Take Two By Styli",
+      "gender": "النساء",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1942/prod/QC_PREP/20260620/21/fefddeb3-daad-3f51-98af-bf19958713c7/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1160652627?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 1,
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "m2",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 199,
+          "originalPrice": 299,
+          "stock": 1
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "15-89987519",
+      "model": "15",
+      "title": "عباية روزا من متجر (EKEA ABAYA)– عباية ملكي طايح بقصة نصف كلوش مع طرحة مطرزة فاخرة",
+      "description": "",
+      "category": "عبايات ورداءات",
+      "brand": "EKEA ABAYA",
+      "gender": "النساء",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1941/prod/QC_PREP/20260623/01/cd4c9ba6-18fb-3345-b41a-e188c24e23db/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1916/prod/QC_PREP/20260623/01/fd79bbcd-9b40-3006-a199-bbef28949b43/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1908/prod/QC_PREP/20260623/01/e2db7d6b-bcaa-37d0-9925-d3d6b4f47b3f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1918/prod/QC_PREP/20260623/01/d03b7d9e-181b-34fc-af26-ce1234ddbb2b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1907/prod/QC_ENRICHMENT/20260810/20/b3efd0d8-9c3c-3c04-a0a4-7cb4b5df048e/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1159384355?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "TYBG9QBC1VQWS38U89",
+          "size": "54",
+          "color": "أسود",
+          "price": 117,
+          "originalPrice": 209,
+          "stock": 3
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "m6-55295674",
+      "model": "m6",
+      "title": "نظارة شمسية ماستر مع ملحقاتها",
+      "description": "",
+      "category": "نظارات شمسية",
+      "brand": "Opticall",
+      "gender": "النساء",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1927/prod/QC_PREP/20260620/21/105aac27-4cfe-38d2-b031-f658beba9e0c/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1159319699?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 1,
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "m6",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 199,
+          "originalPrice": 299,
+          "stock": 1
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "m9-55295674",
+      "model": "m9",
+      "title": "نظارة شمسية ماستر مع ملحقاتها",
+      "description": "",
+      "category": "نظارات شمسية",
+      "brand": "Sunglasses",
+      "gender": "النساء",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1930/prod/QC_PREP/20260620/22/8615d0a0-a8db-3ab1-b317-279252206ca5/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1159319666?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 1,
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "m9",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 199,
+          "originalPrice": 299,
+          "stock": 1
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "gcart8-87682362",
+      "model": "gcart8",
+      "title": "نظارة شمسية ايطالية ماستر للجنسين مع ملحقاتها",
+      "description": "",
+      "category": "نظارات شمسية",
+      "brand": "Sunglasses",
+      "gender": "للجنسين",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1909/prod/QC_PREP/20260620/18/adb6a0e0-8d5f-3da8-a454-f76d717c9d3e/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1159041295?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 1,
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "gcart8",
+          "size": "",
+          "color": "متعدد الألوان",
+          "price": 199,
+          "originalPrice": 299,
+          "stock": 1
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "06-75062319",
+      "model": "06",
+      "title": "عباية سندس من متجر (EKEA ABAYA) – قماش ملكي صيفي طايح مع دانتيل وقصة نصف كلوش",
+      "description": "",
+      "category": "عبايات ورداءات",
+      "brand": "EKEA ABAYA",
+      "gender": "النساء",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1921/prod/QC_PREP/20260619/03/0469002c-beeb-3e67-b81d-974b476a4351/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1932/prod/QC_PREP/20260619/03/c1c3b164-9ae9-35ea-bad4-54ec0f1f490e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1931/prod/QC_PREP/20260619/03/627e4d04-8ff4-3323-9ddb-45bb4283f287/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1158054412?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 1,
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "TYBGLYXH9T3ZKDOI82",
+          "size": "60",
+          "color": "أسود",
+          "price": 69,
+          "originalPrice": 170,
+          "stock": 1
+        },
+        {
+          "barcode": "TYB6A7P9CGPIFZJ286",
+          "size": "56",
+          "color": "أسود",
+          "price": 69,
+          "originalPrice": 170,
+          "stock": 3
+        },
+        {
+          "barcode": "TYBROJHC0L29J4SG83",
+          "size": "50",
+          "color": "أسود",
+          "price": 69,
+          "originalPrice": 170,
+          "stock": 1
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "09-49875756",
+      "model": "09",
+      "title": "عباية خلود من متجر (EKEA ABAya) – بقماش صيفي ملكي بقصة نصف كلوش مفتوحة مع طرحة مطرزة",
+      "description": "",
+      "category": "عبايات ورداءات",
+      "brand": "EKEA ABAYA",
+      "gender": "النساء",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1930/prod/QC_PREP/20260619/03/c00cd1a6-1344-34e2-9514-1349b9521cf2/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1939/prod/QC_PREP/20260619/03/4e713436-d648-3308-8b74-a3ec2d226cb9/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1922/prod/QC_PREP/20260619/03/909513b3-af90-355a-98ef-af89cea57c9d/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1903/prod/QC_PREP/20260619/03/0afa9c14-57b3-3023-bc36-f4275e6ea70f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1914/prod/QC_PREP/20260619/03/d3cbc8aa-cacb-341f-8840-beca97d4fee8/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1920/prod/QC_PREP/20260619/03/705fa437-a302-3b53-b780-5a8504f2e5f9/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1935/prod/QC_PREP/20260619/03/619f2f92-09ef-336e-8e69-d6043f302ed0/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1914/prod/QC_ENRICHMENT/20260810/20/aaaa1917-3a21-3171-9497-d4241c2d6da3/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1158053532?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "TYBQ41U8XQDGSDK012",
+          "size": "52",
+          "color": "أسود",
+          "price": 149,
+          "originalPrice": 220,
+          "stock": 1
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "5-1595773",
+      "model": "5",
+      "title": "عباية لولو – قماش ملكي صيفي طايح بقصة نصف كلوش مع طرحة مطرزة",
+      "description": "",
+      "category": "عبايات ورداءات",
+      "brand": "EKEA ABAYA",
+      "gender": "النساء",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1911/prod/QC_PREP/20260615/15/005db89f-d53c-35ba-985e-affd6a9fc251/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1922/prod/QC_PREP/20260615/15/9a6c1c5c-83f1-33da-bab2-875a755dfde9/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1907/prod/QC_PREP/20260615/15/4c36f4ec-6acf-3d5f-8e55-c4fa772d76a7/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1932/prod/QC_PREP/20260615/15/328f18ac-3489-3155-b267-bee9d5b79831/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1923/prod/QC_PREP/20260615/15/ac3b1fb0-361f-3f26-8260-1e48ff37455b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1932/prod/QC_PREP/20260615/15/ce283f34-242d-30ca-8009-e2d2c0f10c7f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1909/prod/QC_PREP/20260615/15/3c60cc3c-deb7-3993-a2af-3bac3e8af473/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1156648885?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 1,
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "TYBP70W3NC1ZUON881",
+          "size": "52",
+          "color": "أسود",
+          "price": 169,
+          "originalPrice": 199,
+          "stock": 1
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "r8-42621091",
+      "model": "r8",
+      "title": "شماغ ريبال احمر رجالي قطن انجليزي اصلي 100%",
+      "description": "",
+      "category": "أوشحة",
+      "brand": "BRLNT",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1894/prod/QC_PREP/20260613/19/9b6d9552-52a5-3e8a-bbb3-e69f7d02b43c/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1156353344?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "r8-60",
+          "size": "-60",
+          "color": "أحمر",
+          "price": 199,
+          "originalPrice": 299,
+          "stock": 5
+        },
+        {
+          "barcode": "r8-58",
+          "size": "58",
+          "color": "أحمر",
+          "price": 199,
+          "originalPrice": 299,
+          "stock": 5
+        },
+        {
+          "barcode": "r8-55",
+          "size": "55",
+          "color": "أحمر",
+          "price": 199,
+          "originalPrice": 299,
+          "stock": 5
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "g2-8185920",
+      "model": "g2",
+      "title": "شماغ جينجينسيس احمر رجالي قطن انجليزي اصلي 100%",
+      "description": "",
+      "category": "أوشحة",
+      "brand": "BRLNT",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1915/prod/QC_PREP/20260613/19/7f3a3159-8928-37b1-8bbc-0d5929b1a0b0/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1156353338?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "g2-60",
+          "size": "-60",
+          "color": "أحمر",
+          "price": 199,
+          "originalPrice": 299,
+          "stock": 5
+        },
+        {
+          "barcode": "g2-55",
+          "size": "55",
+          "color": "أحمر",
+          "price": 199,
+          "originalPrice": 299,
+          "stock": 5
+        },
+        {
+          "barcode": "g2-58",
+          "size": "58",
+          "color": "أحمر",
+          "price": 199,
+          "originalPrice": 299,
+          "stock": 5
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "b1-94733631",
+      "model": "b1",
+      "title": "شماغ برلنت احمر رجالي قطن انجليزي اصلي 100%",
+      "description": "",
+      "category": "أوشحة",
+      "brand": "BRLNT",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1924/prod/QC_PREP/20260613/19/89403a31-2938-3621-8f45-871d2c299ab1/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1156353337?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "b1-55",
+          "size": "55",
+          "color": "أحمر",
+          "price": 199,
+          "originalPrice": 299,
+          "stock": 5
+        },
+        {
+          "barcode": "b1-60",
+          "size": "-60",
+          "color": "أحمر",
+          "price": 199,
+          "originalPrice": 299,
+          "stock": 5
+        },
+        {
+          "barcode": "b1-58",
+          "size": "58",
+          "color": "أحمر",
+          "price": 199,
+          "originalPrice": 299,
+          "stock": 5
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "b4-94733631",
+      "model": "b4",
+      "title": "شماغ برلنت احمر رجالي قطن انجليزي اصلي 100%",
+      "description": "",
+      "category": "أوشحة",
+      "brand": "BRLNT",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1898/prod/QC_PREP/20260613/19/1d1c1c8e-c7d6-394a-bd69-b2fe3629e737/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1156353336?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "b4-60",
+          "size": "-60",
+          "color": "أحمر",
+          "price": 199,
+          "originalPrice": 299,
+          "stock": 5
+        },
+        {
+          "barcode": "b4-58",
+          "size": "58",
+          "color": "أحمر",
+          "price": 199,
+          "originalPrice": 299,
+          "stock": 5
+        },
+        {
+          "barcode": "b4-55",
+          "size": "55",
+          "color": "أحمر",
+          "price": 199,
+          "originalPrice": 299,
+          "stock": 5
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "genevaw001-89941418",
+      "model": "genevaw001",
+      "title": "شماغ جنيفا ابيض انجليزي قطن 100%",
+      "description": "",
+      "category": "أوشحة",
+      "brand": "GENEVA LIONS",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1904/prod/QC_PREP/20260604/18/5cdd74d4-7baf-3e1e-b094-161943499cd9/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1153884500?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 1,
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "genevaw55",
+          "size": "55",
+          "color": "أبيض",
+          "price": 299,
+          "originalPrice": 399,
+          "stock": 5
+        },
+        {
+          "barcode": "genevaw60",
+          "size": "-60",
+          "color": "أبيض",
+          "price": 299,
+          "originalPrice": 399,
+          "stock": 5
+        },
+        {
+          "barcode": "genevaw58",
+          "size": "58",
+          "color": "أبيض",
+          "price": 299,
+          "originalPrice": 399,
+          "stock": 5
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "velanotw001-16660422",
+      "model": "velanotw001",
+      "title": "شماغ فيلانتو (VELANTO) - أناقة عصرية بروح أصيلة",
+      "description": "",
+      "category": "أوشحة",
+      "brand": "VELANTO",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1891/prod/QC_PREP/20260604/18/fcbf6bf4-3f03-3dcf-9153-16042f387de8/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1153884488?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 1,
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "velantow00158",
+          "size": "58",
+          "color": "أبيض",
+          "price": 149,
+          "originalPrice": 189,
+          "stock": 4
+        },
+        {
+          "barcode": "velantow00155",
+          "size": "55",
+          "color": "أبيض",
+          "price": 149,
+          "originalPrice": 189,
+          "stock": 5
+        },
+        {
+          "barcode": "velantow00160",
+          "size": "-60",
+          "color": "أبيض",
+          "price": 149,
+          "originalPrice": 189,
+          "stock": 5
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "geneva1-23598519",
+      "model": "geneva1",
+      "title": "شماغ جنيفا احمر رجالي قطن انجليزي 100%",
+      "description": "",
+      "category": "أوشحة",
+      "brand": "GENEVA LIONS",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1904/prod/QC_PREP/20260604/18/56aeacd6-27f2-3b2e-8bd6-60ed4e7459bb/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1932/prod/QC_PREP/20260604/18/decf59ca-7195-339d-a529-2eb654a5eea6/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1153884162?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 1,
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "genevared55",
+          "size": "55",
+          "color": "أحمر",
+          "price": 299,
+          "originalPrice": 399,
+          "stock": 4
+        },
+        {
+          "barcode": "genevared58",
+          "size": "58",
+          "color": "أحمر",
+          "price": 299,
+          "originalPrice": 399,
+          "stock": 5
+        },
+        {
+          "barcode": "genevared60",
+          "size": "-60",
+          "color": "أحمر",
+          "price": 299,
+          "originalPrice": 399,
+          "stock": 5
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "lavcap23042026532-50001986",
+      "model": "lavcap23042026532",
+      "title": "عباية مرام, عباية انيقة بتصميم نباتي بسيط",
+      "description": "وصف عباية مرام : قماش كريب أنيق في الجزء الأمامي يمنحك مظهرًا راقيًا ومرتبًا طوال اليوم.; يضيف لمسة لامعة جذابة تعزز من فخامة الإطلالة.; قصة نص كلوش توفر انسيابية ناعمة وراحة في الحركة مع شكل أنثوي مميز.; تصميم مفتوح سهل التنسيق مع مختلف القطع والاطلالات.; مناسبة لطلعات والمناسبات الراقية بإطلالة تجمع بين البساطة والفخامة.; اسم المنتج : عبايه مرام : اللون: أسود كلاسيكي القصة : كلاسيكي عادي اللون : اسود فاحم بلد المنتج: السعودية المقاسات: 50، 52، 54، 56، 58، 60 الملحقات: طرحة هدية : طرق العناية: انقعي العباية في ماء بارد مع منظف لطيف لمدة 10-15 دقيقة.; اشطفيها جيدًا بالماء البارد للحفاظ على القماش واللون.; يُفضل كيّها من الداخل على حرارة متوسطة لتبقى أنيقة دائمًا.;",
+      "category": "عبايات ورداءات",
+      "brand": "Rosana",
+      "gender": "النساء",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1945/prod/QC_ENRICHMENT/20260820/14/0517b2f8-5fe0-3970-a096-b9fa6c035d83/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1946/prod/QC_ENRICHMENT/20260820/14/0620f6ae-b1c0-35ba-9bd0-a4547b1e9113/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1946/prod/QC_ENRICHMENT/20260820/14/fce641f4-a199-38fb-9b7f-d564f5a20be1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1944/prod/QC_ENRICHMENT/20260820/14/5e7781db-5dc1-3d30-bc0a-a5e0a423a613/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1945/prod/QC_ENRICHMENT/20260820/14/65c04fce-e213-3afd-a630-9a0bcb423786/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1151645341?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 1,
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "TYBPA7MND4XHZHDQ17",
+          "size": "60",
+          "color": "أسود",
+          "price": 89,
+          "originalPrice": 135,
+          "stock": 1
+        },
+        {
+          "barcode": "TYBBPTDP7AO7XIEV14",
+          "size": "56",
+          "color": "أسود",
+          "price": 89,
+          "originalPrice": 135,
+          "stock": 1
+        },
+        {
+          "barcode": "TYBO7485DPDX6QPP50",
+          "size": "54",
+          "color": "أسود",
+          "price": 89,
+          "originalPrice": 135,
+          "stock": 2
+        },
+        {
+          "barcode": "TYBG61PMHTNV6HYT23",
+          "size": "52",
+          "color": "أسود",
+          "price": 89,
+          "originalPrice": 135,
+          "stock": 1
+        },
+        {
+          "barcode": "TYBV7TZANW0WMQHW48",
+          "size": "50",
+          "color": "أسود",
+          "price": 89,
+          "originalPrice": 135,
+          "stock": 1
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "mashat-38091577",
+      "model": "mashat",
+      "title": "خلطة بودرة مشاط للعناية بالشعر",
+      "description": "**المشاط** (أو ما يُعرف في بعض المناطق بـ &quot;الرشوش&quot; أو &quot;الطيب اليماني&quot;).; هو عبارة عن خلطة تراثية تقليدية شهيرة جداً في منطقة الخليج والجزيرة العربية، وتُستخدم منذ القدم للعناية بالشعر وتجميله.; إليك أبرز التفاصيل عنها: ### مَكونات بودرة المشاط لا توجد وصفة واحدة ثابِتة، فهي تختلف قليلاً من عطار لآخر، ولكنها تعتمد بشكل أساسي على أعشاب طبيعية عطرية ومغذية يتم طحنها معاً لتشكيل بودرة ناعمة (غالباً ما يميل لونها إلى الأحمر أو البني الفاتح).; من أهم مكوناتها: * **السدر والريحان:** لتنظيف الفروة وتقوية البصيلات.; * **المحلب:** لمنح الشعر لمعاناً ونعومة وكثافة.; * **الورد المجفف والخزامى (اللافندر):** لإعطاء الشعر رائحة عطرية مميزة تدوم طويلاً.; * **خشب الصندل والظفر:** لتعزيز الرائحة التراثية الجميلة.; * **أعشاب أخرى:** مثل القرنفل (المسمار) أو القشر لتطهير الفروة.; ### فوائد المشاط للشعر تحظى هذه البودرة بشعبية كبيرة بسبب فوائدها المتعددة التي تلاحظها النساء مع الاستمرار في الاستخدام: 1. **تعطير الشعر:** يقضي على الروائح غير المستحبة في الفروة ويترك رائحة زكية وعطرية تدوم لأيام.; 2. **تحفيز النمو والكثافة:** يساعد في تقوية البصيلات وتقليل تساقط الشعر.; 3. **تنعيم وفرد الشعر:** يساهم في تقليل النفشة وجعل ملمس الشعر أكثر حيوية.; 4. **تنظيف الفروة:** يعمل كمطهر يقلل من قشرة الرأس والدهون الزائدة.; ### طرق استخدامها الشائعة تُستخدم بودرة المشاط بطرق مختلفة حسب الرغبة: * **مع الماء أو ماء الورد:** تُخلط ملعقة أو ملعقتان منها مع ماء دافئ حتى تصبح كالعجينة السائلة، وتُفرد على الشعر والفروة لمدة ساعتين إلى ثلاث ساعات قبل الغسل.; * **مع الحناء أو السدر:** تُضاف ملعقة من المشاط إلى خليط الحناء أو السدر المعتاد لتعزيز الفائدة وإعطاء رائحة مميزة.; * **مع الزيوت:** يُنقع المشاط في زيتك المفضل (مثل زيت اللوز أو زيت جوز الهند) لعدة أيام، ثم يُصفى الزيت ويُستخدم كحمام زيت للشعر.; &gt; **نصيحة:** لأنها تحتوي على أعشاب عطرية، يُفضل دائماً تجربة كمية صغيرة منها على جزء بسيط من الجلد أو الشعر للتأكد من عدم وجود أي تحسس تجاه أحد المكونات.; &gt; هل تخططين لتجربتها أو إضافتها لروتين العناية بشعرك وتريدين معرفة خلطة محددة؟",
+      "category": "شامبو جاف",
+      "brand": "FARMCOMP",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1900/prod/QC_PREP/20260527/20/3f45072e-9989-373b-b94f-9179d0cdb46b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1941/prod/QC_PREP/20260527/20/a973e72c-03e8-350c-b116-a4be9b08e584/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1151175794?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "msh001",
+          "size": "",
+          "color": "",
+          "price": 69,
+          "originalPrice": 95,
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "dark001-71312096",
+      "model": "dark001",
+      "title": "شماغ شاهين كلاسيك دارك",
+      "description": "",
+      "category": "أوشحة",
+      "brand": "SHAHEEN",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1915/prod/QC_PREP/20260523/17/c7ce1eb1-4997-3b91-9e44-c1eac81dd590/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1931/prod/QC_PREP/20260523/17/eedddb59-3dad-39cb-a6d2-59ceed89f1ca/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1895/prod/QC_PREP/20260523/17/08a8aa50-352b-32e9-8676-6888124467a2/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1911/prod/QC_PREP/20260523/17/bf321d8a-e79e-3873-8363-914636480a24/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1149369891?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": "",
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "dark001",
+          "size": "52",
+          "color": "أحمر",
+          "price": 150,
+          "originalPrice": 280,
+          "stock": 3
+        },
+        {
+          "barcode": "dark004",
+          "size": "-60",
+          "color": "أحمر",
+          "price": 150,
+          "originalPrice": 280,
+          "stock": 3
+        },
+        {
+          "barcode": "dark003",
+          "size": "58",
+          "color": "أحمر",
+          "price": 150,
+          "originalPrice": 280,
+          "stock": 3
+        },
+        {
+          "barcode": "dark002",
+          "size": "55",
+          "color": "أحمر",
+          "price": 150,
+          "originalPrice": 280,
+          "stock": 3
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "preimer-84537433",
+      "model": "preimer",
+      "title": "شماغ شاهين احمر بريمير",
+      "description": "",
+      "category": "أوشحة",
+      "brand": "SHAHEEN",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1915/prod/QC_PREP/20260523/17/b6d69f6e-8749-31cc-a41b-c3af8e3ef7b1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1920/prod/QC_PREP/20260523/17/9924f39c-7de6-3785-9cda-c674f5aad871/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1934/prod/QC_PREP/20260523/17/cd056903-33b3-3075-94b3-a1ca1e19186e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1940/prod/QC_PREP/20260523/17/7023f401-5875-3012-b23b-eab6cf0a45bd/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1941/prod/QC_PREP/20260523/17/1755803f-8b77-36b5-8eb6-db3bc9a81594/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1906/prod/QC_PREP/20260523/17/10e289a3-3fd7-375c-bbb7-673d019e56e8/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1149369887?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": "",
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "pr004",
+          "size": "-60",
+          "color": "أحمر",
+          "price": 150,
+          "originalPrice": 280,
+          "stock": 3
+        },
+        {
+          "barcode": "pr002",
+          "size": "55",
+          "color": "أحمر",
+          "price": 150,
+          "originalPrice": 280,
+          "stock": 3
+        },
+        {
+          "barcode": "pr001",
+          "size": "52",
+          "color": "أحمر",
+          "price": 150,
+          "originalPrice": 280,
+          "stock": 3
+        },
+        {
+          "barcode": "pr003",
+          "size": "58",
+          "color": "أحمر",
+          "price": 150,
+          "originalPrice": 280,
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "classic001-86835990",
+      "model": "classic001",
+      "title": "شماغ شاهين احمر كلاسيك",
+      "description": "",
+      "category": "أوشحة رأس",
+      "brand": "SHAHEEN",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1898/prod/QC_PREP/20260523/17/148a4ccc-d961-35d4-afbf-9f48e44a8240/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1891/prod/QC_PREP/20260523/17/5ff1a449-0cb5-3944-a2d5-a0b15f52ff7b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1924/prod/QC_PREP/20260523/17/1c9cef58-e162-3f8a-abbe-78e1af2567cd/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1893/prod/QC_PREP/20260523/17/bcdcf7d7-a359-33a6-9a51-73432ad98561/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1924/prod/QC_PREP/20260523/17/5917d52b-50d7-35f2-ac38-e329e42ba080/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1892/prod/QC_PREP/20260523/17/4875d547-20d1-30d4-9581-e3fdcc8bd7b0/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1937/prod/QC_PREP/20260523/17/beaa70e5-9737-3041-b2ce-a6a882e48581/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1149369879?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": "",
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "classic001",
+          "size": "",
+          "color": "أحمر",
+          "price": 150,
+          "originalPrice": 280,
+          "stock": 3
+        },
+        {
+          "barcode": "classic004",
+          "size": "",
+          "color": "أحمر",
+          "price": 150,
+          "originalPrice": 280,
+          "stock": 3
+        },
+        {
+          "barcode": "classic002",
+          "size": "",
+          "color": "أحمر",
+          "price": 150,
+          "originalPrice": 280,
+          "stock": 3
+        },
+        {
+          "barcode": "classic003",
+          "size": "",
+          "color": "أحمر",
+          "price": 150,
+          "originalPrice": 280,
+          "stock": 3
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "massaro001-72818681",
+      "model": "massaro001",
+      "title": "شماغ ماسارو احمر رجالي",
+      "description": "",
+      "category": "أوشحة",
+      "brand": "MASSARO",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1936/prod/QC_PREP/20260520/12/968a60a5-a368-3cc0-9534-13db3e07e8f9/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1917/prod/QC_PREP/20260520/12/70427dff-f01e-3e40-8075-afde3c1885bb/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1939/prod/QC_PREP/20260520/12/f8065f28-a800-3949-aaee-2cbd2e57d21b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1906/prod/QC_PREP/20260520/12/f74d0efc-4294-37ea-b6c1-26173137cb10/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1900/prod/QC_PREP/20260520/12/1111f96e-e089-3589-ac3f-266525d64381/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1940/prod/QC_PREP/20260520/12/1e483445-13c2-3a26-a55b-6282da1472ea/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1147689048?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 1,
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "massaro103",
+          "size": "60 × 60",
+          "color": "أحمر",
+          "price": 129,
+          "originalPrice": 169,
+          "stock": 2
+        },
+        {
+          "barcode": "massaro101",
+          "size": "55",
+          "color": "أحمر",
+          "price": 129,
+          "originalPrice": 169,
+          "stock": 4
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "A063-16660422",
+      "model": "A063",
+      "title": "شماغ فيلانتو (VELANTO) - أناقة عصرية بروح أصيلة",
+      "description": "شماغ فيلانتو (VELANTO) - أناقة عصرية بروح أصيلة وصف المنتج: يجمع شماغ فيلانتو بين فخامة الحياكة التقليدية ولمسات التصميم الحديثة.; يتميز بنقوشه الهندسية المتقنة التي تمنحك إطلالة فريدة ومميزة في مختلف المناسبات.; أبرز المميزات: • نقشة حصرية: تصميم مبتكر يبرز جمال تفاصيل الشماغ الأحمر أو ألابيض الكلاسيكي.; • جودة الخيوط: منسوج من قطن عالي الجودة لراحة تدوم طوال اليوم.; • تغليف فاخر: يأتي في صندوق رمادي أنيق بشعار ذهبي، مما يجعله مثالياً للإهداء.; • تطابق الأطراف: دقة في التنفيذ تضمن ثبات &quot;الترسيمة&quot; وانضباط المظهر.",
+      "category": "قبعات",
+      "brand": "VELANTO",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1897/prod/QC_PREP/20260513/20/65961357-98f3-3dcc-a650-cb8e1992833e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1907/prod/QC_PREP/20260513/20/13575280-8ea2-3e74-95bb-17e59912b4ea/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1898/prod/QC_PREP/20260513/20/104daeb2-1a3f-33de-bac8-b3dc6de69877/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1144828160?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 1,
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "TYBTV7FTYS5O4DHG17",
+          "size": "60",
+          "color": "أبيض",
+          "price": 149,
+          "originalPrice": 189,
+          "stock": 5
+        },
+        {
+          "barcode": "TYBRBZOFLRRNCJDR58",
+          "size": "55",
+          "color": "أبيض",
+          "price": 149,
+          "originalPrice": 189,
+          "stock": 5
+        },
+        {
+          "barcode": "48595946",
+          "size": "58",
+          "color": "أبيض",
+          "price": 149,
+          "originalPrice": 189,
+          "stock": 3
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "A061-16660422",
+      "model": "A061",
+      "title": "شماغ فيلانتو (VELANTO) - أناقة عصرية بروح أصيلة",
+      "description": "شماغ فيلانتو (VELANTO) - أناقة عصرية بروح أصيلة وصف المنتج: يجمع شماغ فيلانتو بين فخامة الحياكة التقليدية ولمسات التصميم الحديثة.; يتميز بنقوشه الهندسية المتقنة التي تمنحك إطلالة فريدة ومميزة في مختلف المناسبات.; أبرز المميزات: • نقشة حصرية: تصميم مبتكر يبرز جمال تفاصيل الشماغ الأحمر أو ألابيض الكلاسيكي.; • جودة الخيوط: منسوج من قطن عالي الجودة لراحة تدوم طوال اليوم.; • تغليف فاخر: يأتي في صندوق رمادي أنيق بشعار ذهبي، مما يجعله مثالياً للإهداء.; • تطابق الأطراف: دقة في التنفيذ تضمن ثبات &quot;الترسيمة&quot; وانضباط المظهر.",
+      "category": "قبعات",
+      "brand": "VELANTO",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1916/prod/QC_PREP/20260513/19/5fbdda42-8e18-3623-9053-937235cb898a/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1940/prod/QC_PREP/20260513/19/00b231ac-ed39-36ba-a355-b5deca6215bf/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1144816585?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 1,
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "8484490",
+          "size": "58",
+          "color": "أحمر",
+          "price": 149,
+          "originalPrice": 198,
+          "stock": 5
+        },
+        {
+          "barcode": "388494933",
+          "size": "55",
+          "color": "أحمر",
+          "price": 149,
+          "originalPrice": 198,
+          "stock": 5
+        },
+        {
+          "barcode": "838446",
+          "size": "60",
+          "color": "أحمر",
+          "price": 149,
+          "originalPrice": 198,
+          "stock": 5
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "6-95224343",
+      "model": "6",
+      "title": "عباية شمس من متجر ديل DEAL – قماش كتان فاخر بقصة نصف كلوش بتطريز ناعم",
+      "description": "",
+      "category": "عبايات ورداءات",
+      "brand": "DEAL ABAYA",
+      "gender": "النساء",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1908/prod/QC_PREP/20260428/18/6ac7cc1e-d1b1-34c6-8007-b114d8b3e0c4/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1927/prod/QC_ENRICHMENT/20260430/22/c005e4dc-557d-3431-ab1a-d339f20c83ae/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1941/prod/QC_PREP/20260428/18/143ba0a7-b8cf-3c38-bd3b-26ea7b3a2b1d/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1941/prod/QC_PREP/20260428/18/c5c058fd-9e5a-3d8f-bc05-d359ffc3ac49/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1910/prod/QC_PREP/20260428/18/4c3a3cd9-8612-3571-9e1c-327c5fb53f7f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1915/prod/QC_PREP/20260428/18/ae9dac9c-fb2c-303b-8c0f-b9f2eed5d0f3/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1139637745?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "TYB75M210D17UEME16",
+          "size": "54",
+          "color": "أسود",
+          "price": 100,
+          "originalPrice": 120,
+          "stock": 1
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "m0001-73565463",
+      "model": "m0001",
+      "title": "هديل بلس .عباية ربع كلوش. بكلفة راقية على الصدر الى اسفل العباية زادت العباية جمال الى جمالها",
+      "description": "تصميم نوره عباية هديل بلس تجسد الأناقة العصرية بتصميمها الأسود الفاخر المنسوج من خامات عالية الجودة تضمن لك الراحة والمظهر الراقي في آن واحد وتنفرد هذه العباية بكلفتها المتميزة التي تزين منطقة الصدر بنقوش هندسية دقيقة على شكل معينات متداخلة تضفي لمسة جمالية مبتكرة وجذابة وتأتي القصة بقالب كلاسيكي مريح ينسدل بانسيابية تامة ليناسب مختلف المناسبات الرسمية واليومية مع الحفاظ على طابع الحشمة والوقار الذي تبحثين عنه ويكتمل جمال التصميم بطرحة مطابقة تمنحك إطلالة متكاملة تتناغم فيها التفاصيل الهندسية مع سواد القماش لتبرز ذوقك الرفيع بأسلوب استثنائي فريد.; لذا نوصي الانيقة الراقية بمثل هذة العباية",
+      "category": "عبايات ورداءات",
+      "brand": "ABAYA ANORA",
+      "gender": "النساء",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1859/prod/QC_PREP/20260424/10/8dde1347-9d8b-33ab-8a5d-4ee1110e6903/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1858/prod/QC_PREP/20260424/10/7f37cd5e-0d40-3df2-ac9c-d4df3ef295e1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1857/prod/QC_PREP/20260424/10/4784077b-0cc4-327a-a3af-f6c00ab2d708/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1139179381?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": "",
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "TYBGDFS62DO9HBKU11",
+          "size": "60",
+          "color": "أسود",
+          "price": 100,
+          "originalPrice": 120,
+          "stock": 89
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "h164747-46253675",
+      "model": "h164747",
+      "title": "عباية نسائيه باكمام بلون البيج بتصميم أنيق-مع طرحه راقية ومجانا",
+      "description": "عباية سادة بتصميم قماش بيج على الأكمام تعكس ذوقًا عاليًا وأناقة هادئة.; تفاصيل ناعمة تضيف عمق للإطلالة مع قماش مريح يمنحك حضورًا واثقًا في كل مناسبة.; قطعة مختارة بعناية للمرأة التي تعرف قيمة الفخامة الهادئة",
+      "category": "عبايات ورداءات",
+      "brand": "ABAYA ANORA",
+      "gender": "النساء",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1821/prod/QC_PREP/20260208/02/55839b75-497f-329e-8be7-73deee97e677/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1822/prod/QC_PREP/20260208/02/86fbbe90-9ceb-3bd9-93f2-2ed4ac1d6665/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1816/prod/QC_ENRICHMENT/20260129/04/9a49f942-7122-37f6-bcb3-5e73fe585b79/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1139174399?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": "",
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "beig58",
+          "size": "58",
+          "color": "أسود",
+          "price": 89,
+          "originalPrice": 129,
+          "stock": 1
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "A011-78428132",
+      "model": "A011",
+      "title": "شماغ ماسارو (Massaro Shemagh) – جودة تتحدث عن نفسها",
+      "description": "شماغ ماسارو (Massaro Shemagh) – جودة تتحدث عن نفسها • دقة النسج: يتميز الشماغ بجودة عالية في الخيوط وحياكة دقيقة تضمن لك مظهراً متماسكاً وثباتاً مثالياً طوال اليوم.; • خامة فاخرة: صُنع من أجود الأنسجة التي تمنحك ملمساً ناعماً ومريحاً، مع المحافظة على انسيابية القماش ومقاومته للتجعد.; • ثبات الألوان: يتمتع بتناسق عالي في درجات اللون الأحمر والأبيض، مما يضمن بقاء ألوانه زاهية وجودته ثابتة حتى بعد الاستخدام المتكرر.; • فخامة التفاصيل: الاهتمام بأدق التفاصيل، من نظافة الأطراف (الهدب) إلى الشعار المطبوع بعناية، يعكس معايير الجودة العالية التي تتبعها شركة ماسارو.",
+      "category": "قبعات",
+      "brand": "MASSARO",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1855/prod/QC_PREP/20260414/20/80b7cb77-7b72-3720-b640-95668bb43f63/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1902/prod/QC_ENRICHMENT/20260513/20/a5b3cd6d-fd57-32cd-8df0-145d1ec6f281/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1930/prod/QC_ENRICHMENT/20260513/20/8e54fd7c-0550-3677-9d17-8742f82e1e8b/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1133301277?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 1,
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "5445541215",
+          "size": "60",
+          "color": "Red",
+          "price": 159,
+          "originalPrice": 170,
+          "stock": 5
+        },
+        {
+          "barcode": "5445541212",
+          "size": "58",
+          "color": "Red",
+          "price": 159,
+          "originalPrice": 170,
+          "stock": 5
+        },
+        {
+          "barcode": "5445541213",
+          "size": "55",
+          "color": "Red",
+          "price": 159,
+          "originalPrice": 170,
+          "stock": 5
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "A010-16660422",
+      "model": "A010",
+      "title": "شماغ فيلانتو (VELANTO) - أناقة عصرية بروح أصيلة",
+      "description": "شماغ فيلانتو (VELANTO) - أناقة عصرية بروح أصيلة وصف المنتج: يجمع شماغ فيلانتو بين فخامة الحياكة التقليدية ولمسات التصميم الحديثة.; يتميز بنقوشه الهندسية المتقنة التي تمنحك إطلالة فريدة ومميزة في مختلف المناسبات.; أبرز المميزات: • نقشة حصرية: تصميم مبتكر يبرز جمال تفاصيل الشماغ الأحمر أو ألابيض الكلاسيكي.; • جودة الخيوط: منسوج من قطن عالي الجودة لراحة تدوم طوال اليوم.; • تغليف فاخر: يأتي في صندوق رمادي أنيق بشعار ذهبي، مما يجعله مثالياً للإهداء.; • تطابق الأطراف: دقة في التنفيذ تضمن ثبات &quot;الترسيمة&quot; وانضباط المظهر.",
+      "category": "قبعات",
+      "brand": "MASSARO",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1906/prod/QC_ENRICHMENT/20260513/18/d5b779ac-1d0e-3b33-9234-28867eb03884/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1855/prod/QC_PREP/20260414/20/d4df7bd1-80ae-3d86-b1bd-8dba87c60820/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1133301139?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 1,
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "546541221131",
+          "size": "55",
+          "color": "Red",
+          "price": 149,
+          "originalPrice": 199,
+          "stock": 5
+        },
+        {
+          "barcode": "546541221129",
+          "size": "60",
+          "color": "Red",
+          "price": 149,
+          "originalPrice": 199,
+          "stock": 5
+        },
+        {
+          "barcode": "546541221130",
+          "size": "58",
+          "color": "Red",
+          "price": 149,
+          "originalPrice": 199,
+          "stock": 5
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "A009-16660422",
+      "model": "A009",
+      "title": "شماغ فيلانتو (VELANTO) - أناقة عصرية بروح أصيلة",
+      "description": "شماغ فيلانتو (VELANTO) - أناقة عصرية بروح أصيلة وصف المنتج: يجمع شماغ فيلانتو بين فخامة الحياكة التقليدية ولمسات التصميم الحديثة.; يتميز بنقوشه الهندسية المتقنة التي تمنحك إطلالة فريدة ومميزة في مختلف المناسبات.; أبرز المميزات: • نقشة حصرية: تصميم مبتكر يبرز جمال تفاصيل الشماغ الأحمر أو ألابيض الكلاسيكي.; • جودة الخيوط: منسوج من قطن عالي الجودة لراحة تدوم طوال اليوم.; • تغليف فاخر: يأتي في صندوق رمادي أنيق بشعار ذهبي، مما يجعله مثالياً للإهداء.; • تطابق الأطراف: دقة في التنفيذ تضمن ثبات &quot;الترسيمة&quot; وانضباط المظهر.",
+      "category": "قبعات",
+      "brand": "MASSARO",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1856/prod/QC_PREP/20260414/20/d1ac9705-b579-38d1-a568-6421ce443245/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1912/prod/QC_ENRICHMENT/20260513/15/1b5e6abb-9fc0-3f69-a9c7-32076cbca1a6/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1939/prod/QC_ENRICHMENT/20260513/15/53811030-99ca-3fe2-9d3c-9ad6dc55453c/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1133300195?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 1,
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "546541221127",
+          "size": "55",
+          "color": "Red",
+          "price": 149,
+          "originalPrice": 198,
+          "stock": 5
+        },
+        {
+          "barcode": "546541221126",
+          "size": "60",
+          "color": "Red",
+          "price": 149,
+          "originalPrice": 198,
+          "stock": 5
+        },
+        {
+          "barcode": "546541221128",
+          "size": "58",
+          "color": "Red",
+          "price": 149,
+          "originalPrice": 198,
+          "stock": 5
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "M201-96176797",
+      "model": "M201",
+      "title": "شماغ ماسارو الأحمر بتصميم مبتكر ونقشة عصرية - شماغ رجالي قطن 100% من فرست لايف",
+      "description": "جدد إطلالتك مع شماغ ماسارو (Massaro) الأحمر، الذي ينفرد بلون سكري مميز وتداخل هندسي دقيق للخطوط الحمراء.; يعكس هذا الشماغ روح الابتكار مع الحفاظ على الأصالة العربية، مما يمنحك مظهراً جذاباً يناسب جميع الأوقات والمناسبات.; صُنع الشماغ من القطن الطبيعي النقي بنسبة 100% ليوفر لك ملمساً ناعماً وراحة فائقة، مع ضمان ثبات \"المرزام\" طوال اليوم بفضل دقة نسيجه العالية، متوفر الآن بمقاسات (55، 58، 60) لدى فرست لايف.",
+      "category": "أوشحة",
+      "brand": "MASSARO",
+      "gender": "",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1831/prod/QC_PREP/20260225/21/7dc8b9f7-32f9-3d5c-878c-2af2105b98ce/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1830/prod/QC_PREP/20260225/21/4eb427bd-996e-3110-876b-c218f3565859/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1110211512?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 1,
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "TYB6JGMIJQLF12BG41",
+          "size": "58",
+          "color": "أحمر",
+          "price": 159,
+          "originalPrice": 169,
+          "stock": 2
+        },
+        {
+          "barcode": "TYB55GMA94RES4SO08",
+          "size": "-60",
+          "color": "أحمر",
+          "price": 159,
+          "originalPrice": 169,
+          "stock": 3
+        },
+        {
+          "barcode": "TYBPT5OJOQGKAGBG62",
+          "size": "55",
+          "color": "أحمر",
+          "price": 159,
+          "originalPrice": 169,
+          "stock": 5
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "202-42530135",
+      "model": "202",
+      "title": "عباية غيم _ عباية كريب اسود فاحم بتصميم كلوش فخامه ومحتشمة",
+      "description": "عبايه اسود بتصميم يناسب الاستخدام اليومي والمناسبات البسيطة ، بتصميم يجمع بين العملية والفخامة ، تصميمها كلوش يعطي انسيابية فاخرة ويمنحك حرية حركة دون فقدان الطابع المحتشم ، العباية تجمع بين الأناقة والرقي بطريقة فريدة تعكس ذوقك الرفيع.; مميزات عبايه اسود : .; القماش عالي الجودة ناعم ومريح، يخليكِ تحسّين بالراحة طوال اليوم دون التنازل عن الجمال والفخامة.; التفاصيل المتقنة في العباية تضيف لمسة فاخرة سواء في الخياطة أو القصّة لتظهري بإطلالة راقية للمناسبات أو الاستخدام اليومي.; اختيارك عبايه اسود يعني إنكِ تختارين تصميم يجمع بين التقليد واللمسة العصرية.; القَصّة فسيحة وتمنح حرية أثناء الارتداء، مع تفاصيل دقيقة تضيف لمسة أنثوية من الأناقة دون مبالغة.; طرق العناية بالعباية : نقع العباية في ماء بارد مع منظف مناسب لمدة 10–15 دقيقة.; شطفها جيدًا بماء بارد دون فرك شديد.; تجفيفها في الظل بعيدًا عن أشعة الشمس المباشرة.",
+      "category": "عبايات ورداءات",
+      "brand": "Lamsa",
+      "gender": "النساء",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1825/prod/QC_PREP/20260214/12/26828eb4-06c3-3c80-acdc-ce6200d341d3/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1825/prod/QC_PREP/20260214/12/c88b4ed8-9a54-3e62-be8b-dcc8eae86265/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1824/prod/QC_PREP/20260214/12/d4b9487a-46fd-3199-ab89-8803fe48b17e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1826/prod/QC_PREP/20260214/12/85a158b5-4fb7-3aa4-997a-50c6e7af9ee4/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1103807543?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "TYB2YMMPBAPFECVX81",
+          "size": "60",
+          "color": "أسود",
+          "price": 79,
+          "originalPrice": 119,
+          "stock": 1
+        },
+        {
+          "barcode": "TYBXX62EIOZ7R3I483",
+          "size": "50",
+          "color": "أسود",
+          "price": 79,
+          "originalPrice": 119,
+          "stock": 3
+        },
+        {
+          "barcode": "TYBB9X7IT7MP1I9H84",
+          "size": "52",
+          "color": "أسود",
+          "price": 79,
+          "originalPrice": 119,
+          "stock": 3
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "11110-6768053",
+      "model": "11110",
+      "title": "عباية ورد رمادي سوداء شتوية كريب واقف – قصة ربع كلوش بتطريز ورد رمادي أنيق مع طقطق مخفي وطرحة هدية",
+      "description": "عباية ورد رمادي تجمع بين الجمال والذوق الهادئ بلمسة أنثوية أنيقة.; تم تصميم العباية من قماش كريب واقف شتوي يمنحك ثبات وأناقة في اللبس مع نعومة مريحة طوال اليوم.; تأتي العباية باللون الأسود الفاحم مع قصة ربع كلوش تمنحك وسعًا وانسيابية مرتبة تناسب كل الأوقات.; وتتميز العباية بتفاصيل ورد رمادي راقية على الأكمام والصدر تضيف لمسة فنية ناعمة تجعل التصميم مميز بدون مبالغة.; كما تأتي بقفل طقطق مخفي ليحافظ على بساطة وأناقة العباية.; ومعها طرحة هدية متناسقة لتكتمل إطلالتك المحتشمة والفاخرة.; هذه العباية مناسبة للمشاوير اليومية، المناسبات البسيطة، العمل واللبس العصري الهادئ.",
+      "category": "عبايات ورداءات",
+      "brand": "Elena",
+      "gender": "النساء",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1944/prod/QC_ENRICHMENT/20260820/17/c645e5c4-fe4f-3420-97a5-0a554a72708e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1945/prod/QC_ENRICHMENT/20260820/17/482f1d4b-884a-3e27-bf2f-d4dbe1b0d289/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1945/prod/QC_ENRICHMENT/20260820/17/2c500625-b02b-317f-a5cf-faffd1d9cada/1_org_zoom.jpg"
+      ],
+      "trendyol": "https://www.trendyol.com/en/x-p-1079943932?language=ar&countryCode=SA&storefrontId=35&filterOverPriceListings=false&merchantId=1266383",
+      "shippingDays": 2,
+      "status": "مغلق",
+      "variants": [
+        {
+          "barcode": "TYB30RTWZJNVKOZV41",
+          "size": "50",
+          "color": "أسود",
+          "price": 89,
+          "originalPrice": 129,
+          "stock": 1
+        }
+      ],
+      "featured": false
+    }
+  ]
+}
